@@ -1,7 +1,9 @@
 # solving-programmers.co.kr  
 Studying in https://programmers.co.kr/  
 
+Level 1 :
+- [모의고사](모의고사.md)
+- [21년 8월 위클리 챌린지 2주차](https://github.com/unbroken-KR/solving-programmers.co.kr/blob/main/21%EB%85%84%208%EC%9B%94%20%EC%9C%84%ED%81%B4%EB%A6%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80%202%EC%A3%BC%EC%B0%A8.md)
+- [예산](예산.md)
 
-마크다운 문법 참고 :  
-https://hongsii.github.io/2017/06/01/How-to-Write-with-Markdown/  
-https://heropy.blog/2017/09/30/markdown/
+###### 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
